@@ -4,7 +4,12 @@
 [Aqui puedes entrar a las sesiones](https://www.twitch.tv/brujeriatech)
 
 ### Horarios:
-Lunes,  miercoles y viernes 7 pm hora de la Ciudad de Mexico 
+Lunes,  
+miercoles y 
+viernes 7 pm 
+hora de la 
+Ciudad de 
+Mexico 
 
 
 ## ¿Que es lo que veremos?
